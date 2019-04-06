@@ -1,3 +1,24 @@
 .App {
   text-align: center;
 }
+
+.navContainer{
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  width: 90%;
+  margin-left: 5%;
+}
+
+.navLinks{
+  display: flex;
+  justify-content: space-evenly;
+  width: 40%;
+}
+
+h3{
+  color: dodgerblue;
+  text-decoration: none;
+  text-decoration-line: none;
+  text-decoration-color: dodgerblue;
+}
